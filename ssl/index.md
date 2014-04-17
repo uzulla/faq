@@ -38,6 +38,14 @@ SSL通信において、高い証明書と、安い証明書で、安全性の�
 
 上記の場合には、大手を選択するメリットや必要がある。
 
+## 激安い証明書について
+
+[https://ipxcore.com/ssl/](https://ipxcore.com/ssl/)
+Wildcardが$42/year(Wildcardは *.example.co.jp など、まとめてサブドメインにつかえる証明書）
+
+[https://www.namecheap.com/security/ssl-certificates/domain-validation.aspx](https://www.namecheap.com/security/ssl-certificates/domain-validation.aspx)
+通常SSLが$10/yearくらい（個人的によくつかっている）
+
 
 ## 登録時に必要なメールアドレス
 
