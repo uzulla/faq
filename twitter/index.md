@@ -1,6 +1,10 @@
 Twitter
 ======
 
+## Twitterアプリに関して
+
+[アプリ新規作成、APIキーの取得などはこちら](token.md)
+
 ## intent OAuthなしでのTwitterへの投稿
 
 ```
