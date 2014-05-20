@@ -1,7 +1,7 @@
 # twitterのアプリ関連
 
 ## アプリの管理画面へのログイン
-[https://apps.twitter.com/](https://apps.twitter.com/) をひらき、そのトークン所有者となるアカウントでログインする（そのアカウントはログイン時に見えるので、個人アカウントではまずい）
+[https://apps.twitter.com/](https://apps.twitter.com/) をひらき、そのAPIキー所有者となるアカウントでログインする（そのアカウントはログイン時に見えるので、個人アカウントではまずい）
 ![](twitter-token-start.png)
 
 ## アプリの新規作成
@@ -35,7 +35,7 @@ callback URLはTwitterでログインさせる場合には必須なので、サ�
 
 ![](twitter-token-desc-settings.png)
 
-## アプリAPIキー（トークン）確認画面
+## アプリAPIキー確認画面
 
 APIアクセス時に必要になるAPI Key、API Secret Keyはここから取得できる。
 

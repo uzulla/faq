@@ -3,7 +3,7 @@ Twitter
 
 ## Twitterアプリに関して
 
-[アプリ新規作成、APIキーの取得などはこちら](token.md)
+[アプリ新規作成、APIキーの取得などはこちら](api-key.md)
 
 ## intent OAuthなしでのTwitterへの投稿
 
