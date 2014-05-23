@@ -16,6 +16,29 @@ SSL関連
 
 ワイルドカード証明書（サブドメインを全部許可する証明書）はCommon Nameに`*.example.co.jp` などと指定する。
 
+
+（メールコピペ用）
+```
+Country:（国名、例：JP）
+JP
+
+State or Province Name（都道府県、例：Tokyo）
+Tokyo
+
+LocaltyName（市区町村、例：Hachioji-Shi）
+※ご記入下さい
+
+Organization Name（会社名、例： Sample company Inc.）
+※ご記入下さい
+
+Organizational Unit（部署名、例：Developing Unit）
+※ご記入下さい
+
+Common Name（ドメイン名、例：www.example.co.jp）
+※ご記入下さい
+
+```
+
 ### 鍵長、鍵強度、`1024bit`、`2048bit`などといった単語ついて
 
 SSLの暗号の強さだと思って差し支えない。
