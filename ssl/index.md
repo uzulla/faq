@@ -6,7 +6,7 @@ SSL関連
 以下情報が英文字で必要。
 
 |名前|概要|例|
-|----|----|
+|----|----|----|
 |Country |国名|JP|
 |State or Province Name|都道府県|Tokyo|
 |LocaltyName|市区町村|Hachioji-Shi|
