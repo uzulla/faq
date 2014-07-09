@@ -108,9 +108,9 @@ nginx|0.5.32以上かつビルドオプションを有効
 
 browser|バージョン
 ---|---
-IE   |XP以下（Vista以降は対応
+InternetExplorer|XP以下（Vista以降は対応
+WindowsのChrome|XP以下（Vista以降は対応
 Android|2以下
-
 
 ## Heartbleedについて
 
