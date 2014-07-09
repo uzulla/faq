@@ -111,6 +111,7 @@ browser|バージョン
 InternetExplorer|XP以下（Vista以降は対応
 WindowsのChrome|XP以下（Vista以降は対応
 Android|2以下
+iPhone(MofileSafari)| 4.0未満
 
 ## Heartbleedについて
 
