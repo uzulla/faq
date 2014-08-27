@@ -51,3 +51,11 @@ AppIDが必要である。
 ## Likeボタン作成
 
 [こちらから](https://developers.facebook.com/docs/plugins/like-button)
+
+
+## 友達のタイムラインには投稿はできません
+
+[https://developers.facebook.com/blog/post/2012/10/10/growing-quality-apps-with-open-graph/](https://developers.facebook.com/blog/post/2012/10/10/growing-quality-apps-with-open-graph/)
+
+> Post to friends wall via the API generate a high levels of negative user feedback, including “Hides” and “Mark as Spam" and so we are removing it from the API. 
+
