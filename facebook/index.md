@@ -51,3 +51,20 @@ AppIDが必要である。
 ## Likeボタン作成
 
 [こちらから](https://developers.facebook.com/docs/plugins/like-button)
+
+
+## 友達のタイムラインには投稿はできません
+
+[https://developers.facebook.com/blog/post/2012/10/10/growing-quality-apps-with-open-graph/](https://developers.facebook.com/blog/post/2012/10/10/growing-quality-apps-with-open-graph/)
+
+> Post to friends wall via the API generate a high levels of negative user feedback, including “Hides” and “Mark as Spam" and so we are removing it from the API. 
+
+
+## 友達をタグ付け(Mention tagging)
+
+[https://developers.facebook.com/docs/opengraph/using-actions/v2.1](https://developers.facebook.com/docs/opengraph/using-actions/v2.1)
+
+Mention Taggingは別途の審査などが必要になります。
+
+> The first step is to enable the tagging capability for your action type. This requires an additional approval process before it can be used by anyone who's not a developer or tester of your app.
+
